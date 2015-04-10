@@ -8,7 +8,7 @@ Stable tag: 1.0
 License: GPLv3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
-This free [WPML](http://wpml.org) Addon removes all promotion for ICanLocalize from the WPML plugin.
+This free WPML Addon removes all promotion for ICanLocalize from the WPML plugin.
 
 == Description ==
 
