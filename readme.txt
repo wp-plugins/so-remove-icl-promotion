@@ -3,12 +3,12 @@ Contributors: senlin
 Donate link: http://so-wp.com/donations
 Tags: wpml, icanlocalize, icl, promotion, remove, ads
 Requires at least: 4.0
-Tested up to: 4.2
+Tested up to: 4.3
 Stable tag: 1.0
 License: GPLv3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
-This free WPML Addon removes all promotion for ICanLocalize from the WPML plugin.
+This free [WPML](http://wpml.org) Addon removes all promotion for ICanLocalize from the WPML plugin.
 
 == Description ==
 
